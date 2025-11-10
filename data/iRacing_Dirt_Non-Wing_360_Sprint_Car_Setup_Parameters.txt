@@ -1,0 +1,115 @@
+﻿iRacing Non-Wing 360 Sprint Car Setup Parameters
+Tires: 
+Tire Pressures:
+Increments of 1 psi
+Left Front and Right Front:
+Min: 8 psi
+Max: 12 psi
+
+Left Rear:
+Min: 4 psi
+Max: 8 psi
+
+Right Rear:
+Min: 6 psi
+Max: 10 psi
+
+Stagger:
+Increments of 0.500 inches
+Front:
+Min: 0.000 inches
+Max: 1.000 inches
+
+Rear:
+Min: 8.000 inches
+Max: 14.000 inches
+
+Chassis:
+Steering Box Ratio:
+Increments of 1.0:1
+Min: 9.0:1
+Max: 12.0:1
+
+Pitman Arm Length:
+Increments of 1.0 inches
+Min: 10.0 inches
+Max: 12.0 inches
+
+Steering Offset:
+Increments of 2 degrees
+Min: -50 degrees
+Max: +50 degrees
+
+Front Toe-In:
+Increments of 2/16 inches
+Min: -14/16 inches
+Max: -1/16 inches
+
+Bump Stiffness:
+Increments of 0.5 valving
+Left Front and Right Front:
+Min: 3.0 valving
+Max: 6.0 valving
+
+Left Rear:
+Min: 3.0 valving
+Max: 6.0 valving
+
+Right Rear:
+Min: 3.0 valving
+Max: 6.0 valving
+
+Rebound Stiffness:
+Increments of 0.5 valving
+Left Front and Right Front:
+Min: 3.0 valving
+Max: 9.0 valving
+
+Left Rear:
+Min: 3.0 valving
+Max: 9.0 valving
+
+Right Rear:
+Min: 3.0 valving
+Max: 9.0 valving
+
+Torsion Bar Diameter:
+Increments of 0.025 inches
+Left Front and Right Front:
+Min: 0.950 inches
+Max: 1.050 inches
+
+Left Rear and Right Rear:
+Min: 0.950 inches
+Max: 1.050 inches
+
+Torsion Bar Stop:
+Increments of 0.25 turns
+Left Front and Right Front:
+Min: -3.00 turns
+Max: 3.00 turns
+
+Left Rear and Right Rear:
+Min: -3.00 turns
+Max: 3.00 turns
+
+Wheel Spacing:
+Left Rear:
+Increments of 0.50 inches
+Min: 13.50 inches
+Max: 14.50 inches
+
+Right Rear:
+Increments of 0.25 inches
+Min: 19.00 inches
+Max: 22.00 inches
+
+Fuel Fill To:
+Increments of 1 gallon
+Min: 2.0 gallons
+Max: 30.0 gallons
+
+Rear End Ratio:
+No set increments
+Min: 4.66
+Max: 7.14
