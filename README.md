@@ -21,13 +21,13 @@ This tool analyzes driver questions and optional telemetry data to recommend **s
 2. A retriever (Chroma) finds relevant setup context for your question
 3. The LLM (DeepSeek-R1 via Ollama) generates short, precise setup advice
 
-Install dependencies:
-```bash
-pip install -r requirements.txt
-
 ---
 
 ## 🧩 Requirements
 - Python 3.10+
 - Ollama (running locally with model `deepseek-r1`)
 - Chroma and LangChain libraries
+
+Install dependencies:
+```bash
+pip install -r requirements.txt
