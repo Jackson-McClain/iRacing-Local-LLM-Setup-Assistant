@@ -1,0 +1,119 @@
+iRacing Dirt Midget Setup Parameters
+Tires: 
+Tire Pressures:
+Increments of 1 psi
+Left Front and Right Front:
+Min: 8 psi
+Max: 12 psi
+
+Left Rear:
+Min: 4 psi
+Max: 8 psi
+
+Right Rear:
+Min: 6 psi
+Max: 10 psi
+
+Stagger:
+Increments of 0.500 inches
+Front:
+Min: 0.000 inches
+Max: 1.000 inches
+
+Rear:
+Min: 2.000 inches
+Max: 8.000 inches
+
+Chassis:
+Steering Box Ratio:
+Increments of 1.0:1
+Min: 7.0:1
+Max: 12.0:1
+
+Pitman Arm Length:
+Increments of 0.5 inches
+Min: 13.8 inches
+Max: 14.8 inches
+
+Steering Offset:
+Increments of 2 degrees
+Min: -50 degrees
+Max: +50 degrees
+
+Front Toe-In:
+Increments of 2/16 inches
+Min: -9/16 inches
+Max: -1/16 inches
+
+Corner Spring Rate:
+Increments of 5 lbs/in
+Left Front and Right Front:
+Min: 165 lbs/in
+Max: 200 lbs/in
+
+Shock Collar Offset:
+Increments of around 0.062 inches
+Left Front and Right Front:
+Min: 3.000 inches
+Max: 5.000 inches
+
+Bump Stiffness:
+Increments of 0.5 valving
+Left Front and Right Front:
+Min: 3.0 valving
+Max: 6.0 valving
+
+Left Rear:
+Min: 3.0 valving
+Max: 6.0 valving
+
+Right Rear:
+Min: 3.0 valving
+Max: 6.0 valving
+
+Rebound Stiffness:
+Increments of 0.5 valving
+Left Front and Right Front:
+Min: 3.0 valving
+Max: 6.0 valving
+
+Left Rear:
+Min: 3.0 valving
+Max: 9.0 valving
+
+Right Rear:
+Min: 3.0 valving
+Max: 6.0 valving
+
+Torsion Bar Diameter:
+Increments of 0.025 inches
+Left Rear and Right Rear:
+Min: 0.700 inches
+Max: 0.850 inches
+
+Torsion Bar Stop:
+Increments of 0.25 turns
+Left Rear and Right Rear:
+Min: -3.00 turns
+Max: 3.00 turns
+
+Wheel Spacing:
+Left Rear:
+Increments of 0.50 inches
+Min: 8.00 inches
+Max: 9.00 inches
+
+Right Rear:
+Increments of 0.25 inches
+Min: 17.00 inches
+Max: 19.50 inches
+
+Fuel Fill To:
+Increments of 1 gallon
+Min: 1.0 gallons
+Max: 19.0 gallons
+
+Rear End Ratio:
+No set increments
+Min: 3.78
+Max: 7.31
